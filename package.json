@@ -1,0 +1,30 @@
+{
+  "name": "hw-01",
+  "version": "1.0.0",
+  "description": "node-hw-01",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkadiuszMyszka/node-hw-01.git"
+  },
+  "author": "Arkadiusz Myszka",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^11.0.0",
+    "nanoid": "^3.3.6"
+  },
+  "bugs": {
+    "url": "https://github.com/ArkadiuszMyszka/node-hw-01/issues"
+  },
+  "homepage": "https://github.com/ArkadiuszMyszka/node-hw-01#readme"
+  
+}
